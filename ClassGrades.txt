@@ -53,7 +53,7 @@ Owen
 8
 No
 Finn
-0
+10
 Yes
 Caleb
 3
@@ -71,7 +71,7 @@ Ava
 0
 Yes
 Hazel
-4
+9
 No
 Nora
 10
